@@ -1,0 +1,6 @@
+Autor - Dominik Gorny
+Kierunek - Elektronika
+Grupa 1
+
+Gra zostala stworzona w ramach projektu Programowania Obiektowego.
+Jest to gra w wisielca, w ktorej musimy odgadnac haslo za pomoca liter w okreslonej liczbie prob....

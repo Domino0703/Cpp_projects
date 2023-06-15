@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\Dominik\Desktop\Hangman\Hangman\Hangman\Game.cpp(119,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Dominik\Desktop\Hangman\Hangman\Hangman\Game.cpp(156,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Main.cpp
+  Menu.cpp
+C:\Users\Dominik\Desktop\Hangman\Hangman\Hangman\Menu.cpp(36,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  Hangman.vcxproj -> C:\Users\Dominik\Desktop\Hangman\Hangman\Debug\Hangman.exe
